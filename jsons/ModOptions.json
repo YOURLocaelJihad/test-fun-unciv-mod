@@ -1,4 +1,10 @@
 {
-  "modUrl": "https://lol.com",
+  "modUrl": "https://github.com/YOURLocaelJihad/test-fun-unciv-mod",
   "author": "YOURLocælJihad",
+  "constants": {
+    "maxXPfromBarbarians": 10e308,
+    "baseCityBombardRange": 4,
+    "cityWorkRange": 8,
+    "cityExpandRange", 10    
+  }
 }
