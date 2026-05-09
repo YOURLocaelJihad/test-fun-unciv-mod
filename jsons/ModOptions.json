@@ -2,7 +2,7 @@
   "modUrl": "https://github.com/YOURLocaelJihad/test-fun-unciv-mod",
   "author": "YOURLocælJihad",
   "constants": {
-    "maxXPfromBarbarians": 10e308,
+    "maxXPfromBarbarians": 2147483647,
     "baseCityBombardRange": 4,
     "cityWorkRange": 8,
     "cityExpandRange": 10    
