@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Fun!",
+        "modifier": 0.70,
+        "goldCostModifier": 0.50,
+        "scienceCostModifier": 0.50,
+        "cultureCostModifier": 0.50,
+        "faithCostModifier": 0.50,
+        "improvementBuildLengthModifier": 0.50,
+        "barbarianModifier": 0.2,
+        "goldGiftModifier": 1.25,
+        "cityStateTributeScalingInterval": 4.0,
+        "goldenAgeLengthModifier": 1.1,
+        "religiousPressureAdjacentCity": 9,
+        "peaceDealDuration": 10,
+        "dealDuration": 25,
+        "startYear": -5000,
+        "turns": [
+            {"yearsPerTurn": 60, "untilTurn":  30},
+            {"yearsPerTurn": 40, "untilTurn":  75},
+            {"yearsPerTurn": 30, "untilTurn": 120},
+            {"yearsPerTurn": 20, "untilTurn": 155},
+            {"yearsPerTurn": 10, "untilTurn": 175},
+            {"yearsPerTurn":  5, "untilTurn": 195},
+            {"yearsPerTurn":  2, "untilTurn": 240},
+            {"yearsPerTurn":  1, "untilTurn": 10000}
+        ]
+    }
+]
