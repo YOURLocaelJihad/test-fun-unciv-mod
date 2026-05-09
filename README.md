@@ -1,2 +1,3 @@
 # test-fun-unciv-mod
-A WIP unciv mod that tweaks some things in the game
+
+Tweaks some values in the game to provide advantages for the player (WIP), like the maximum XP you can gain from barbarians and also their spawn interval, research costs, policy cost modifier, and whatnot. Not much is to be expected from this mod, I may or may not leave it abandon development.
